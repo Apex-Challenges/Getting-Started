@@ -44,6 +44,6 @@ and push these to the remote repository
 
 `git push origin <branchname>`
 
-Once you are happy with your solution, [open a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+Once you are happy with your solution, [open a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge your new branch back into the main branch of your repository. Add `keirbowden` as reviewer and yourself as assignee.
 
 Then wait!
