@@ -1,4 +1,4 @@
-# Coding 101 Gettting Started
+# Coding 101 Getting Started
 
 Start here to ensure you can connect an existing repository to a scratch org and push your work.
 
