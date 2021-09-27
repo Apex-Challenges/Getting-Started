@@ -44,6 +44,6 @@ and push these to the remote repository
 
 `git push origin <branchname>`
 
-Once you are happy with your solution, [open a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+Once you are happy with your solution, [open a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - make sure that you specify the base repository as your fork rather than the Apex-Challenges repository.
 
 Then wait!
